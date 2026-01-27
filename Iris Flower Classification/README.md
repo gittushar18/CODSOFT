@@ -61,5 +61,5 @@ The model successfully classifies iris flowers into their respective species wit
 ---
 
 ## Author
-**Tushar Sahu** 
+*Tushar Sahu* 
 ---
