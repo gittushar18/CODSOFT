@@ -65,10 +65,13 @@ Accuracy = R² Score × 100
 
 ## ✅ Result
 The Multiple Linear Regression model showed good performance on the advertising dataset.
+
 Mean Squared Error (MSE): 2.91
 This low MSE value indicates that the difference between actual and predicted sales is small.
+
 R² Score: 0.89
 This means that 89% of the variation in sales is explained by the advertising data.
+
 Model Accuracy: 89%
 Accuracy is calculated using the R² score as:
 Accuracy = R² × 100
