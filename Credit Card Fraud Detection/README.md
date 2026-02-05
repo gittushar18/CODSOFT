@@ -29,13 +29,21 @@ The dataset is provided as a **CSV file (or ZIP containing CSV)**.
 
 ---
 
+## 📂 Dataset
+The dataset is too large to upload to GitHub.
+
+🔗 Google Drive link:  
 # Credit Card Fraud Detection
 
 ## 📂 Dataset
 The dataset is too large to upload to GitHub.
 
 🔗 Google Drive link:  
-https://drive.google.com/your-link-here
+https://drive.google.com/file/d/1_HuXYPuT-yWpIvktt0_uAzjfrzAigZFK/view?usp=drive_link
+
+## 📌 Note
+Please download the dataset from the above link before running the project.
+
 
 ## 📌 Note
 Please download the dataset from the above link before running the project.
