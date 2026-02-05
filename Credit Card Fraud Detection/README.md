@@ -29,6 +29,19 @@ The dataset is provided as a **CSV file (or ZIP containing CSV)**.
 
 ---
 
+# Credit Card Fraud Detection
+
+## 📂 Dataset
+The dataset is too large to upload to GitHub.
+
+🔗 Google Drive link:  
+https://drive.google.com/your-link-here
+
+## 📌 Note
+Please download the dataset from the above link before running the project.
+
+---
+
 ## 🛠️ Technologies Used
 - **Programming Language**: Python  
 - **Libraries**:
